@@ -1,5 +1,5 @@
 # maven-project
 
 Simple Maven Project
-End
+End of the file
 
